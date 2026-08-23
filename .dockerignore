@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+chroma_db/
+.git/
+.gitignore
+*.md
+test_cases/

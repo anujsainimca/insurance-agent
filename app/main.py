@@ -53,8 +53,8 @@ if not any(isinstance(h, StreamlitLogHandler) for h in logger.handlers):
 
 # Page configuration
 st.set_page_config(
-    page_title="Insurance Claims Processing Agent",
-    page_icon="🏥",
+    page_title="Insurance Claims Processing Agent — v2 (updated)",
+    page_icon="🆕",
     layout="wide",
     initial_sidebar_state="expanded"
 )
